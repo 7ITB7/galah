@@ -1,0 +1,1816 @@
+{
+"premise": "Old maps were not always drawn with north at the top. Al-Idrisi's great world atlas of 1154 puts south at the top. The theory behind this app: somewhere in the copying, the Bible's map was turned upside down. Turn it back over and lay it on North America, and two places fit. Each key pins a few landmarks; every other place in the Bible is carried along with them, keeping its distance and direction from its neighbours as closely as the land allows.",
+"keys": {
+"zion": {
+"name": "Zion key",
+"short": "Zion",
+"center": [
+40.77,
+-111.89
+],
+"pitch": "Pin Jerusalem on Salt Lake City and flip the map. The Jordan then has to flow north out of a freshwater lake into a dead salt sea, and Utah's Jordan River does exactly that.",
+"strong": "The Jordan valley, the salt sea, the freshwater lake and Zion itself fit almost perfectly, at almost the same size. Sinai lands on Yellowstone, a mountain that really smokes and quakes. Mesopotamia lands on California's twin-river valley.",
+"weak": "Utah has no coast. Canaan's ports, Joppa, Tyre and Gaza, land in the deserts of eastern Utah and western Colorado, about a thousand miles from the Gulf. And Egypt has to stretch all the way to the Mississippi, so the three-day march from Rameses to the sea becomes more than 400 miles.",
+"anchors": [
+{
+"i": 786,
+"at": "Memphis, Tennessee",
+"why": "Same name, same kind of river. Egypt's Memphis stood at the head of the Nile Delta. Memphis, Tennessee stands at the head of the Mississippi Delta; the writer David Cohn said the Delta begins in the lobby of the Peabody Hotel there.",
+"s": 3
+},
+{
+"i": 1150,
+"at": "Thebes, Illinois",
+"why": "Upriver from Memphis on both rivers is Thebes. Southern Illinois has been nicknamed Little Egypt since the 1800s and has towns named Cairo, Thebes and Karnak.",
+"s": 3
+},
+{
+"i": 46,
+"at": "Alexandria, Louisiana",
+"why": "Egypt's great port stood on the western side of the Delta. Flipped, the western side of the Mississippi's lower valley is central Louisiana, and the town there is called Alexandria.",
+"s": 2
+},
+{
+"i": 312,
+"at": "Missouri–Mississippi confluence, St. Louis",
+"why": "Beyond Upper Egypt, the Blue Nile and White Nile meet and run side by side in two colours. Beyond Little Egypt, the muddy Missouri meets the Mississippi at St. Louis and does the same.",
+"s": 2
+},
+{
+"i": 1015,
+"at": "Chichén Itzá, Yucatán",
+"why": "Flip the Mediterranean onto the Gulf of Mexico and the Caribbean, which oceanographers call the American Mediterranean, and Italy's boot lands on the Yucatán. Chichén Itzá and Rome's Colosseum both made the New Seven Wonders list.",
+"s": 2
+},
+{
+"i": 1109,
+"at": "Hispaniola",
+"why": "Tarshish, where Jonah ran, is usually placed in Spain. Flipped, Spain lands on the island Columbus named La Isla Española, the Spanish island.",
+"s": 3
+},
+{
+"i": 769,
+"at": "Key West, Florida Keys",
+"why": "Paul was shipwrecked on Malta after fourteen days adrift. Flipped, Malta lands on the Florida Keys, a reef chain famous for its shipwrecks.",
+"s": 2
+},
+{
+"i": 1119,
+"at": "Havana, Cuba",
+"why": "From Malta, Paul's ship sailed to Syracuse in Sicily, about 90 miles. Key West to Havana is about 105 miles. Flipped, Sicily lands on Cuba.",
+"s": 2
+},
+{
+"i": 310,
+"at": "Arrecife Alacranes, off Yucatán",
+"why": "Paul's ship sheltered at Crete before a storm drove it to Malta. Flipped, Crete lands on Arrecife Alacranes, a reef with a few small islands off Yucatán, and the reef sits about as far from Key West as Crete sits from Malta.",
+"s": 1
+},
+{
+"i": 121,
+"at": "Campeche",
+"why": "Flip the Aegean Sea and it lands on the Bay of Campeche: Asia Minor's coast on the bay's west side, Macedonia on its south side, Greece on its east side, where Campeche stands.",
+"s": 1
+},
+{
+"i": 400,
+"at": "Veracruz",
+"why": "Ephesus faced west across the Aegean. On the flipped map it faces east across the Bay of Campeche, where the port of Veracruz stands.",
+"s": 1
+},
+{
+"i": 1140,
+"at": "Tampico",
+"why": "Paul's hometown stood where the coast of Asia Minor turns toward Syria. On the flipped map that corner is Tampico, where Mexico's Gulf coast turns toward Texas.",
+"s": 1
+},
+{
+"i": 650,
+"at": "Salt Lake Temple, Salt Lake City",
+"why": "The pioneers called this valley Zion and built their temple here. Turn the Bible map upside down and Jerusalem sits just east of the salt sea's southern end, which is exactly where Salt Lake City sits.",
+"s": 3
+},
+{
+"i": 1023,
+"at": "Great Salt Lake",
+"why": "A salt lake with no outlet, fed by a river named Jordan, so salty that bathers float. An 1896 map printed the Great Salt Lake beside an upside-down Dead Sea to show how alike they are.",
+"s": 3
+},
+{
+"i": 1032,
+"at": "Utah Lake",
+"why": "A freshwater lake that drains through one river into the salt sea. Heber C. Kimball named that river the Western Jordan in 1847 for this exact reason, and early Utah writers called the lake the western Galilee.",
+"s": 3
+},
+{
+"i": 849,
+"at": "Mount Nebo, Utah",
+"why": "Hermon is the snowy summit at the head of the Jordan valley. Flipped, it lands at the far end of Utah Valley on the highest peak of the Wasatch, which the pioneers named Nebo.",
+"s": 2
+},
+{
+"i": 864,
+"at": "Mount Washburn, Yellowstone",
+"why": "At Sinai the whole mountain smoked and quaked greatly (Exodus 19:18). The flipped map puts Sinai about 290 miles north of Zion, in Yellowstone, among steam vents and well over a thousand small earthquakes a year.",
+"s": 3
+},
+{
+"i": 369,
+"at": "Bear Lake, south shore",
+"why": "Solomon's port stood at the head of a long, narrow gulf. Flipped, that gulf lands on Bear Lake, the turquoise lake nicknamed the Caribbean of the Rockies.",
+"s": 2
+},
+{
+"i": 152,
+"at": "Sacramento, California",
+"why": "Mesopotamia means between the rivers. California's Central Valley is two great rivers, the Sacramento and the San Joaquin, meeting in a delta and running into a bay, with some of the richest farmland on earth between them. Babylon takes the capital.",
+"s": 2
+},
+{
+"i": 904,
+"at": "Fresno, California",
+"why": "Nineveh stood up the second river from Babylon. Flipped, the second river is the San Joaquin, and the great city up it is Fresno.",
+"s": 1
+},
+{
+"i": 87,
+"at": "Mount Whitney",
+"why": "The ark rested on the mountains of Ararat. The flipped map points to the High Sierra, topped by Mount Whitney, the highest summit in the lower 48 states.",
+"s": 2
+},
+{
+"i": 915,
+"at": "Barkerville, Cariboo gold fields",
+"why": "Solomon's ships brought gold from Ophir. The flipped map points north to British Columbia's Cariboo, scene of an 1860s gold rush. Prospectors named mining camps in Utah, Colorado and Alaska after Ophir.",
+"s": 2
+},
+{
+"i": 1064,
+"at": "Haida Gwaii, British Columbia",
+"why": "The queen of Sheba came from the far edge of the known world with gold, spices and precious stones. Flipped, the far edge is these islands, officially called the Queen Charlotte Islands until 2010.",
+"s": 1
+},
+{
+"i": 1272,
+"at": "Greenville, Mississippi",
+"why": "Zoan was a royal city in the Nile Delta. Flipped, it lands in the heart of the Mississippi Delta, where David Cohn grew up.",
+"s": 2
+},
+{
+"i": 948,
+"at": "Winter Quarters, Omaha",
+"why": "Israel camped at Pi-hahiroth before the sea crossing. In 1846 the Mormon pioneers camped here, at Winter Quarters, before heading west; that year they had already crossed the frozen Mississippi, which they compared to the Red Sea.",
+"s": 2
+},
+{
+"i": 1116,
+"at": "San Francisco",
+"why": "Shushan the palace, Persia's capital, stood beyond the gulf where the twin rivers ended. Flipped, it lands across San Francisco Bay from the rivers' mouth.",
+"s": 1
+}
+],
+"overrides": [
+{
+"i": 511,
+"at": "Gulf of Mexico",
+"why": "On both keys the Great Sea is the Gulf of Mexico and the Caribbean, the American Mediterranean."
+},
+{
+"i": 664,
+"at": "Jordan River, Utah",
+"why": "Utah's Jordan runs north out of Utah Lake, fresh, into the Great Salt Lake, dead. Turn the Bible's Jordan upside down and it does the same."
+},
+{
+"i": 900,
+"at": "Mississippi River",
+"why": "Egypt's river empties into the Great Sea through a delta. So does the Mississippi."
+},
+{
+"i": 487,
+"at": "Mississippi River",
+"why": "Here Gihon is another name for the Nile."
+},
+{
+"i": 422,
+"at": "Sacramento River",
+"why": "Babylon's river. On this key, the Sacramento."
+},
+{
+"i": 1159,
+"at": "San Joaquin River",
+"why": "Nineveh's river. On this key, the San Joaquin."
+},
+{
+"i": 985,
+"at": "Missouri River at Omaha",
+"why": "Where Israel crossed. On this key it is the Missouri at Winter Quarters, the river the Mormon pioneers crossed to head west."
+},
+{
+"i": 987,
+"at": "Missouri River at Omaha",
+"why": "Where Israel crossed. On this key it is the Missouri at Winter Quarters."
+},
+{
+"i": 986,
+"at": "Bear Lake",
+"why": "The Red Sea's eastern gulf, by Elath. On this key, Bear Lake."
+}
+],
+"rivals": [
+{
+"n": "Mormon Exodus",
+"la": 41.3323,
+"lo": -95.962,
+"why": "The pioneers who settled this Zion saw their own trek as an exodus. They crossed the frozen Mississippi in February 1846, and on 9 October 1846 starving refugees near Montrose, Iowa, were fed by flocks of quail that flew into camp, which they compared to the quail of Exodus 16."
+},
+{
+"n": "Havilah, California",
+"la": 35.5185,
+"lo": -118.5203,
+"why": "Genesis 2 puts Havilah, the land where there is gold, next to Eden. On this key Eden lands at Wasco, at the south end of the San Joaquin Valley, about 45 miles from Havilah, a gold-rush town in Kern County named after that verse's land of gold."
+},
+{
+"n": "Moab, Utah",
+"la": 38.5733,
+"lo": -109.5498,
+"why": "The pioneers named a town Moab after the land beyond the Jordan. On this key the Bible's Moab falls on the far side of the Great Salt Lake instead, near Brigham City."
+}
+],
+"tests": [
+{
+"a": 186,
+"b": 650,
+"ref": "John 11:18",
+"t": "Bethany was about fifteen furlongs from Jerusalem.",
+"bible": 1.3,
+"key": 2.3,
+"ratio": 1.72,
+"mode": "walk"
+},
+{
+"a": 383,
+"b": 650,
+"ref": "Luke 24:13",
+"t": "Emmaus was threescore furlongs from Jerusalem.",
+"bible": 4.3,
+"key": 9.3,
+"ratio": 2.19,
+"mode": "walk"
+},
+{
+"a": 858,
+"b": 650,
+"ref": "Acts 1:12",
+"t": "Olivet is a sabbath day’s journey from Jerusalem.",
+"bible": 0.7,
+"key": 1.2,
+"ratio": 1.77,
+"mode": "walk"
+},
+{
+"a": 663,
+"b": 265,
+"ref": "Acts 10:23-24",
+"t": "Peter left Joppa one morning and reached Caesarea the next day.",
+"bible": 31.8,
+"key": 23.3,
+"ratio": 0.73,
+"mode": "walk"
+},
+{
+"a": 171,
+"b": 832,
+"ref": "Genesis 22:4",
+"t": "From Beersheba, Abraham saw Moriah on the third day.",
+"bible": 43.6,
+"key": 119.2,
+"ratio": 2.74,
+"mode": "walk"
+},
+{
+"a": 323,
+"b": 171,
+"ref": "Judges 20:1",
+"t": "From Dan to Beersheba: the length of the land.",
+"bible": 146.4,
+"key": 129.8,
+"ratio": 0.89,
+"mode": "walk"
+},
+{
+"a": 864,
+"b": 674,
+"ref": "Deuteronomy 1:2",
+"t": "Eleven days’ journey from Horeb to Kadesh-barnea.",
+"bible": 148.2,
+"key": 321.8,
+"ratio": 2.17,
+"mode": "walk"
+},
+{
+"a": 979,
+"b": 948,
+"ref": "Exodus 12:37–14:2",
+"t": "Rameses to the sea: three camps, Succoth, Etham and Pi-hahiroth.",
+"bible": 20.4,
+"key": 442.5,
+"ratio": 21.64,
+"mode": "walk"
+},
+{
+"a": 948,
+"b": 773,
+"ref": "Exodus 15:22-23",
+"t": "Three days in the wilderness from the sea to Marah.",
+"bible": 114.4,
+"key": 227.7,
+"ratio": 1.99,
+"mode": "walk"
+},
+{
+"a": 546,
+"b": 489,
+"ref": "Genesis 31:23",
+"t": "Laban chased Jacob seven days’ journey from Haran to Gilead.",
+"bible": 374.9,
+"key": 571.4,
+"ratio": 1.52,
+"mode": "walk"
+},
+{
+"a": 152,
+"b": 650,
+"ref": "Ezra 7:9",
+"t": "Ezra’s caravan took about four months from Babylon to Jerusalem.",
+"bible": 539.9,
+"key": 532.2,
+"ratio": 0.99,
+"mode": "walk"
+},
+{
+"a": 1177,
+"b": 885,
+"ref": "Acts 16:11",
+"t": "Troas to Neapolis by sea in two days.",
+"bible": 122.9,
+"key": 94.3,
+"ratio": 0.77,
+"mode": "sail"
+},
+{
+"a": 999,
+"b": 959,
+"ref": "Acts 28:13",
+"t": "Rhegium to Puteoli with a south wind, in a day and a bit.",
+"bible": 204.6,
+"key": 275.1,
+"ratio": 1.34,
+"mode": "sail"
+},
+{
+"a": 310,
+"b": 769,
+"ref": "Acts 27:27",
+"t": "Driven by the storm from Crete to Malta in fourteen days.",
+"bible": 590.0,
+"key": 522.8,
+"ratio": 0.89,
+"mode": "sail"
+}
+],
+"stats": {
+"water_ok": 1,
+"moved_ashore": 24,
+"island_on_mainland": 8
+},
+"echo": {
+"hits": [],
+"chance": 0.5,
+"p95": 2,
+"best": 4,
+"radius_mi": 25
+}
+},
+"gulf": {
+"name": "Gulf key",
+"short": "Gulf",
+"center": [
+29.76,
+-95.37
+],
+"pitch": "Pin Jerusalem on Houston and flip the map. The Great Sea becomes the Gulf of Mexico, Egypt lands on the Mississippi, and the Red Sea crossing lands on the Red River.",
+"strong": "Canaan gets a real coast with real ports, Egypt sits next door on the Mississippi, the Red Sea crossing falls on the Red River and Sinai on the steaming mountain at Hot Springs. Paul's voyages work as sea voyages.",
+"weak": "Texas has no Jordan valley and no dead salt sea, and no river there flows the way the flipped Jordan must, so the Jordan and the Salt Sea land on ordinary ground near Houston. Canaan comes out about 60 percent longer than it really is, and Babylon lands almost twice as far from Jerusalem as it should.",
+"anchors": [
+{
+"i": 786,
+"at": "Memphis, Tennessee",
+"why": "Same name, same kind of river. Egypt's Memphis stood at the head of the Nile Delta. Memphis, Tennessee stands at the head of the Mississippi Delta; the writer David Cohn said the Delta begins in the lobby of the Peabody Hotel there.",
+"s": 3
+},
+{
+"i": 1150,
+"at": "Thebes, Illinois",
+"why": "Upriver from Memphis on both rivers is Thebes. Southern Illinois has been nicknamed Little Egypt since the 1800s and has towns named Cairo, Thebes and Karnak.",
+"s": 3
+},
+{
+"i": 46,
+"at": "Alexandria, Louisiana",
+"why": "Egypt's great port stood on the western side of the Delta. Flipped, the western side of the Mississippi's lower valley is central Louisiana, and the town there is called Alexandria.",
+"s": 2
+},
+{
+"i": 312,
+"at": "Missouri–Mississippi confluence, St. Louis",
+"why": "Beyond Upper Egypt, the Blue Nile and White Nile meet and run side by side in two colours. Beyond Little Egypt, the muddy Missouri meets the Mississippi at St. Louis and does the same.",
+"s": 2
+},
+{
+"i": 1015,
+"at": "Chichén Itzá, Yucatán",
+"why": "Flip the Mediterranean onto the Gulf of Mexico and the Caribbean, which oceanographers call the American Mediterranean, and Italy's boot lands on the Yucatán. Chichén Itzá and Rome's Colosseum both made the New Seven Wonders list.",
+"s": 2
+},
+{
+"i": 1109,
+"at": "Hispaniola",
+"why": "Tarshish, where Jonah ran, is usually placed in Spain. Flipped, Spain lands on the island Columbus named La Isla Española, the Spanish island.",
+"s": 3
+},
+{
+"i": 769,
+"at": "Key West, Florida Keys",
+"why": "Paul was shipwrecked on Malta after fourteen days adrift. Flipped, Malta lands on the Florida Keys, a reef chain famous for its shipwrecks.",
+"s": 2
+},
+{
+"i": 1119,
+"at": "Havana, Cuba",
+"why": "From Malta, Paul's ship sailed to Syracuse in Sicily, about 90 miles. Key West to Havana is about 105 miles. Flipped, Sicily lands on Cuba.",
+"s": 2
+},
+{
+"i": 310,
+"at": "Arrecife Alacranes, off Yucatán",
+"why": "Paul's ship sheltered at Crete before a storm drove it to Malta. Flipped, Crete lands on Arrecife Alacranes, a reef with a few small islands off Yucatán, and the reef sits about as far from Key West as Crete sits from Malta.",
+"s": 1
+},
+{
+"i": 121,
+"at": "Campeche",
+"why": "Flip the Aegean Sea and it lands on the Bay of Campeche: Asia Minor's coast on the bay's west side, Macedonia on its south side, Greece on its east side, where Campeche stands.",
+"s": 1
+},
+{
+"i": 400,
+"at": "Veracruz",
+"why": "Ephesus faced west across the Aegean. On the flipped map it faces east across the Bay of Campeche, where the port of Veracruz stands.",
+"s": 1
+},
+{
+"i": 1140,
+"at": "Tampico",
+"why": "Paul's hometown stood where the coast of Asia Minor turns toward Syria. On the flipped map that corner is Tampico, where Mexico's Gulf coast turns toward Texas.",
+"s": 1
+},
+{
+"i": 650,
+"at": "Houston, Texas",
+"why": "Flipped, the Great Sea lies south and east of Jerusalem, Egypt lies east and Babylon west. Houston is the city where all three line up: the Gulf, the Mississippi and the desert west. A rival pick, Palestine, Texas, sits at 31.76° north; Jerusalem sits at 31.78°.",
+"s": 2
+},
+{
+"i": 663,
+"at": "Galveston",
+"why": "Joppa was Jerusalem's port, where Jonah found a ship to run away on. Galveston is Houston's island port.",
+"s": 2
+},
+{
+"i": 448,
+"at": "Sabine Pass",
+"why": "Gaza guarded the coast road to Egypt. Sabine Pass guards the coast road from Texas into Louisiana, the Egypt of this key.",
+"s": 1
+},
+{
+"i": 1180,
+"at": "Corpus Christi",
+"why": "Tyre was the great merchant port up the coast. On this key it is Corpus Christi, a city named for the Body of Christ and one of the country's largest ports.",
+"s": 1
+},
+{
+"i": 864,
+"at": "Hot Springs Mountain, Arkansas",
+"why": "The mountain smoked and quaked. On this key Sinai lands in Arkansas's Ouachita Mountains at Hot Springs, where 47 springs pour out water heated deep underground.",
+"s": 2
+},
+{
+"i": 369,
+"at": "Lake Texoma, Red River",
+"why": "Elath stood at the head of the Red Sea's eastern gulf. On this key the Red Sea is the Red River, and its long lake is Texoma.",
+"s": 2
+},
+{
+"i": 152,
+"at": "Phoenix, Arizona",
+"why": "Babylon lived on canals between two rivers. The Hohokam dug the largest prehistoric canal network in North America right here, between the Salt and the Gila.",
+"s": 2
+},
+{
+"i": 1187,
+"at": "Yuma, Arizona",
+"why": "Abraham's Ur stood near where the twin rivers met the gulf. The Gila meets the Colorado at Yuma, just above the Gulf of California.",
+"s": 2
+},
+{
+"i": 915,
+"at": "Homestake Mine, Lead, South Dakota",
+"why": "Gold of Ophir. Flipped, the gold road north from the Gulf runs to the Black Hills, where the Homestake Mine became the largest and deepest gold mine in North America.",
+"s": 2
+},
+{
+"i": 1064,
+"at": "Pueblo Bonito, Chaco Canyon",
+"why": "The queen of Sheba came north with gold, spices and precious stones. Chaco Canyon was a desert trading capital that brought in macaws and seashells from far away.",
+"s": 1
+},
+{
+"i": 87,
+"at": "Cerro Mohinora, Sierra Madre",
+"why": "On this key the mountains of Ararat fall in the Sierra Madre Occidental, whose highest summit is Cerro Mohinora.",
+"s": 1
+}
+],
+"overrides": [
+{
+"i": 511,
+"at": "Gulf of Mexico",
+"why": "On both keys the Great Sea is the Gulf of Mexico and the Caribbean, the American Mediterranean."
+},
+{
+"i": 900,
+"at": "Mississippi River",
+"why": "Egypt's river empties into the Great Sea through a delta. So does the Mississippi."
+},
+{
+"i": 487,
+"at": "Mississippi River",
+"why": "Here Gihon is another name for the Nile."
+},
+{
+"i": 422,
+"at": "Salt and Gila rivers",
+"why": "Babylon's river. On this key, the Salt River joining the Gila at Phoenix."
+},
+{
+"i": 1159,
+"at": "Colorado River",
+"why": "The second river. On this key, the Colorado, which takes in the Gila at Yuma."
+},
+{
+"i": 985,
+"at": "Red River, Louisiana",
+"why": "Where Israel crossed. On this key, the Red River, between Egypt in Louisiana and Sinai in Arkansas."
+},
+{
+"i": 987,
+"at": "Red River, Louisiana",
+"why": "Where Israel crossed. On this key, the Red River."
+},
+{
+"i": 986,
+"at": "Lake Texoma",
+"why": "The Red Sea's eastern gulf, by Elath. On this key, Lake Texoma on the Red River."
+}
+],
+"rivals": [
+{
+"n": "Trinity River",
+"la": 30.2,
+"lo": -94.85,
+"why": "Texas's Trinity River runs south out of Lake Livingston, a freshwater lake, into salty Galveston Bay, with Houston to the west. That is the Jordan's layout without any flipping, which breaks this key's rule but is hard to ignore."
+},
+{
+"n": "Holy City of the Wichitas",
+"la": 34.7424,
+"lo": -98.5911,
+"why": "A rival Sinai. In 1926 a Lawton pastor decided Oklahoma's Wichita Mountains looked like the Holy Land and staged a passion play there. A stone replica of Jerusalem followed in the 1930s, and the play still runs."
+},
+{
+"n": "Great Pyramid of Cholula",
+"la": 19.0577,
+"lo": -98.302,
+"why": "A rival Babel. The largest pyramid on earth by volume. A colonial-era legend says a giant built it after a great flood to reach the clouds, and the gods struck it with fire."
+},
+{
+"n": "Palestine, Texas",
+"la": 31.7621,
+"lo": -95.6308,
+"why": "Named after Palestine, Illinois, which a French explorer named because it reminded him of the biblical land. It sits at 31.76° north; Jerusalem sits at 31.78°."
+}
+],
+"tests": [
+{
+"a": 186,
+"b": 650,
+"ref": "John 11:18",
+"t": "Bethany was about fifteen furlongs from Jerusalem.",
+"bible": 1.3,
+"key": 1.5,
+"ratio": 1.14,
+"mode": "walk"
+},
+{
+"a": 383,
+"b": 650,
+"ref": "Luke 24:13",
+"t": "Emmaus was threescore furlongs from Jerusalem.",
+"bible": 4.3,
+"key": 4.9,
+"ratio": 1.14,
+"mode": "walk"
+},
+{
+"a": 858,
+"b": 650,
+"ref": "Acts 1:12",
+"t": "Olivet is a sabbath day’s journey from Jerusalem.",
+"bible": 0.7,
+"key": 0.8,
+"ratio": 1.13,
+"mode": "walk"
+},
+{
+"a": 663,
+"b": 265,
+"ref": "Acts 10:23-24",
+"t": "Peter left Joppa one morning and reached Caesarea the next day.",
+"bible": 31.8,
+"key": 51.5,
+"ratio": 1.62,
+"mode": "walk"
+},
+{
+"a": 171,
+"b": 832,
+"ref": "Genesis 22:4",
+"t": "From Beersheba, Abraham saw Moriah on the third day.",
+"bible": 43.6,
+"key": 56.2,
+"ratio": 1.29,
+"mode": "walk"
+},
+{
+"a": 323,
+"b": 171,
+"ref": "Judges 20:1",
+"t": "From Dan to Beersheba: the length of the land.",
+"bible": 146.4,
+"key": 239.4,
+"ratio": 1.64,
+"mode": "walk"
+},
+{
+"a": 864,
+"b": 674,
+"ref": "Deuteronomy 1:2",
+"t": "Eleven days’ journey from Horeb to Kadesh-barnea.",
+"bible": 148.2,
+"key": 235.4,
+"ratio": 1.59,
+"mode": "walk"
+},
+{
+"a": 979,
+"b": 948,
+"ref": "Exodus 12:37–14:2",
+"t": "Rameses to the sea: three camps, Succoth, Etham and Pi-hahiroth.",
+"bible": 20.4,
+"key": 35.2,
+"ratio": 1.72,
+"mode": "walk"
+},
+{
+"a": 948,
+"b": 773,
+"ref": "Exodus 15:22-23",
+"t": "Three days in the wilderness from the sea to Marah.",
+"bible": 114.4,
+"key": 114.4,
+"ratio": 1.0,
+"mode": "walk"
+},
+{
+"a": 546,
+"b": 489,
+"ref": "Genesis 31:23",
+"t": "Laban chased Jacob seven days’ journey from Haran to Gilead.",
+"bible": 374.9,
+"key": 463.8,
+"ratio": 1.24,
+"mode": "walk"
+},
+{
+"a": 152,
+"b": 650,
+"ref": "Ezra 7:9",
+"t": "Ezra’s caravan took about four months from Babylon to Jerusalem.",
+"bible": 539.9,
+"key": 1014.2,
+"ratio": 1.88,
+"mode": "walk"
+},
+{
+"a": 1177,
+"b": 885,
+"ref": "Acts 16:11",
+"t": "Troas to Neapolis by sea in two days.",
+"bible": 122.9,
+"key": 100.4,
+"ratio": 0.82,
+"mode": "sail"
+},
+{
+"a": 999,
+"b": 959,
+"ref": "Acts 28:13",
+"t": "Rhegium to Puteoli with a south wind, in a day and a bit.",
+"bible": 204.6,
+"key": 285.4,
+"ratio": 1.4,
+"mode": "sail"
+},
+{
+"a": 310,
+"b": 769,
+"ref": "Acts 27:27",
+"t": "Driven by the storm from Crete to Malta in fourteen days.",
+"bible": 590.0,
+"key": 522.8,
+"ratio": 0.89,
+"mode": "sail"
+}
+],
+"stats": {
+"moved_ashore": 82,
+"water_ok": 4,
+"island_on_mainland": 4
+},
+"echo": {
+"hits": [],
+"chance": 0.1,
+"p95": 0,
+"best": 1,
+"radius_mi": 25
+}
+},
+"echo": {
+"name": "Name key",
+"short": "Names",
+"center": [
+41.49,
+-72.88
+],
+"pitch": "Forget rivers and seas. Settlers named hundreds of American towns after Bible places. This key tries every flip, turn, size and position of the Bible map and keeps the one that sets the most Bible places on top of towns with the same name.",
+"strong": "Twelve names line up within 25 miles, most of them in Connecticut: Hebron, Bethlehem, Bethel, Bethany, Bozrah, Sharon and New Canaan, with Carmel and Lebanon just over the line.",
+"weak": "Shuffle the names among the places and the same search still finds 8 to 11 matches, so twelve is only a little better than chance. The map also has to be mirror-flipped, and everything beyond Canaan falls apart: Babylon lands off North Carolina's Outer Banks and Rome in northern Ontario.",
+"anchors": [
+{
+"i": 186,
+"at": "Bethany, CT",
+"why": "The name key puts Bethany 7.6 miles from Bethany, CT.",
+"s": 2
+},
+{
+"i": 201,
+"at": "Bethel, CT",
+"why": "The name key puts Bethel 21.9 miles from Bethel, CT.",
+"s": 1
+},
+{
+"i": 219,
+"at": "Bethlehem, CT",
+"why": "The name key puts Bethlehem 22.3 miles from Bethlehem, CT.",
+"s": 1
+},
+{
+"i": 255,
+"at": "Bozrah, CT",
+"why": "The name key puts Bozrah 18.5 miles from Bozrah, CT.",
+"s": 1
+},
+{
+"i": 272,
+"at": "New Canaan, CT",
+"why": "The name key puts Canaan 21.8 miles from New Canaan, CT.",
+"s": 1
+},
+{
+"i": 356,
+"at": "Eden, NC",
+"why": "The name key puts Eden 7.5 miles from Eden, NC.",
+"s": 2
+},
+{
+"i": 507,
+"at": "Goshen, NH",
+"why": "The name key puts Goshen 2.0 miles from Goshen, NH.",
+"s": 2
+},
+{
+"i": 573,
+"at": "Hebron, CT",
+"why": "The name key puts Hebron 16.2 miles from Hebron, CT.",
+"s": 1
+},
+{
+"i": 839,
+"at": "Carmel, NY",
+"why": "The name key puts Mount Carmel 9.7 miles from Carmel, NY.",
+"s": 2
+},
+{
+"i": 854,
+"at": "Lebanon, NJ",
+"why": "The name key puts Mount Lebanon 22.9 miles from Lebanon, NJ.",
+"s": 1
+},
+{
+"i": 1060,
+"at": "Sharon, CT",
+"why": "The name key puts Sharon 15.1 miles from Sharon, CT.",
+"s": 1
+},
+{
+"i": 1130,
+"at": "Palmyra, NJ",
+"why": "The name key puts Tadmor 11.8 miles from Palmyra, NJ.",
+"s": 2
+}
+],
+"overrides": [
+{
+"i": 511,
+"at": "Atlantic, off Long Island",
+"why": "On this key the Great Sea's eastern shore falls on the Connecticut and Massachusetts line, with no sea there; the nearest open water is the Atlantic."
+}
+],
+"rivals": [
+{
+"n": "Hebron, Connecticut",
+"la": 41.6587,
+"lo": -72.3662,
+"why": "Hebron, Lebanon, Bozrah and the village of Gilead sit within a few miles of each other in eastern Connecticut, one of the densest knots of Bible names in the country."
+}
+],
+"tests": [
+{
+"a": 186,
+"b": 650,
+"ref": "John 11:18",
+"t": "Bethany was about fifteen furlongs from Jerusalem.",
+"bible": 1.3,
+"key": 0.8,
+"ratio": 0.62,
+"mode": "walk"
+},
+{
+"a": 383,
+"b": 650,
+"ref": "Luke 24:13",
+"t": "Emmaus was threescore furlongs from Jerusalem.",
+"bible": 4.3,
+"key": 2.6,
+"ratio": 0.62,
+"mode": "walk"
+},
+{
+"a": 858,
+"b": 650,
+"ref": "Acts 1:12",
+"t": "Olivet is a sabbath day’s journey from Jerusalem.",
+"bible": 0.7,
+"key": 0.4,
+"ratio": 0.62,
+"mode": "walk"
+},
+{
+"a": 663,
+"b": 265,
+"ref": "Acts 10:23-24",
+"t": "Peter left Joppa one morning and reached Caesarea the next day.",
+"bible": 31.8,
+"key": 20.0,
+"ratio": 0.63,
+"mode": "walk"
+},
+{
+"a": 171,
+"b": 832,
+"ref": "Genesis 22:4",
+"t": "From Beersheba, Abraham saw Moriah on the third day.",
+"bible": 43.6,
+"key": 27.3,
+"ratio": 0.63,
+"mode": "walk"
+},
+{
+"a": 323,
+"b": 171,
+"ref": "Judges 20:1",
+"t": "From Dan to Beersheba: the length of the land.",
+"bible": 146.4,
+"key": 92.1,
+"ratio": 0.63,
+"mode": "walk"
+},
+{
+"a": 864,
+"b": 674,
+"ref": "Deuteronomy 1:2",
+"t": "Eleven days’ journey from Horeb to Kadesh-barnea.",
+"bible": 148.2,
+"key": 90.7,
+"ratio": 0.61,
+"mode": "walk"
+},
+{
+"a": 979,
+"b": 948,
+"ref": "Exodus 12:37–14:2",
+"t": "Rameses to the sea: three camps, Succoth, Etham and Pi-hahiroth.",
+"bible": 20.4,
+"key": 12.7,
+"ratio": 0.62,
+"mode": "walk"
+},
+{
+"a": 948,
+"b": 773,
+"ref": "Exodus 15:22-23",
+"t": "Three days in the wilderness from the sea to Marah.",
+"bible": 114.4,
+"key": 71.9,
+"ratio": 0.63,
+"mode": "walk"
+},
+{
+"a": 546,
+"b": 489,
+"ref": "Genesis 31:23",
+"t": "Laban chased Jacob seven days’ journey from Haran to Gilead.",
+"bible": 374.9,
+"key": 235.4,
+"ratio": 0.63,
+"mode": "walk"
+},
+{
+"a": 152,
+"b": 650,
+"ref": "Ezra 7:9",
+"t": "Ezra’s caravan took about four months from Babylon to Jerusalem.",
+"bible": 539.9,
+"key": 422.5,
+"ratio": 0.78,
+"mode": "walk"
+},
+{
+"a": 1177,
+"b": 885,
+"ref": "Acts 16:11",
+"t": "Troas to Neapolis by sea in two days.",
+"bible": 122.9,
+"key": 77.0,
+"ratio": 0.63,
+"mode": "sail"
+},
+{
+"a": 999,
+"b": 959,
+"ref": "Acts 28:13",
+"t": "Rhegium to Puteoli with a south wind, in a day and a bit.",
+"bible": 204.6,
+"key": 129.3,
+"ratio": 0.63,
+"mode": "sail"
+},
+{
+"a": 310,
+"b": 769,
+"ref": "Acts 27:27",
+"t": "Driven by the storm from Crete to Malta in fourteen days.",
+"bible": 590.0,
+"key": 367.6,
+"ratio": 0.62,
+"mode": "sail"
+}
+],
+"stats": {
+"moved_ashore": 174,
+"island_on_mainland": 16,
+"water_ok": 11
+},
+"echo": {
+"hits": [
+{
+"i": 507,
+"town": "Goshen, NH",
+"mi": 2.0
+},
+{
+"i": 356,
+"town": "Eden, NC",
+"mi": 7.5
+},
+{
+"i": 186,
+"town": "Bethany, CT",
+"mi": 7.6
+},
+{
+"i": 187,
+"town": "Bethany, CT",
+"mi": 8.3
+},
+{
+"i": 839,
+"town": "Carmel, NY",
+"mi": 9.5
+},
+{
+"i": 1130,
+"town": "Palmyra, NJ",
+"mi": 11.7
+},
+{
+"i": 1060,
+"town": "Sharon, CT",
+"mi": 14.9
+},
+{
+"i": 255,
+"town": "Bozrah, CT",
+"mi": 15.3
+},
+{
+"i": 573,
+"town": "Hebron, CT",
+"mi": 16.2
+},
+{
+"i": 272,
+"town": "New Canaan, CT",
+"mi": 21.6
+},
+{
+"i": 201,
+"town": "Bethel, CT",
+"mi": 21.9
+},
+{
+"i": 219,
+"town": "Bethlehem, CT",
+"mi": 22.2
+},
+{
+"i": 854,
+"town": "Lebanon, NJ",
+"mi": 22.7
+}
+],
+"chance": 4.7,
+"p95": 7,
+"best": 11,
+"radius_mi": 25
+},
+"search": {
+"score": 12,
+"nulls": [
+10,
+9,
+10,
+10,
+10,
+10,
+10,
+9,
+11,
+10,
+10,
+11,
+9,
+10,
+9,
+9,
+10,
+10,
+11,
+10,
+9,
+8,
+10,
+10,
+9,
+10,
+9,
+9,
+9,
+9
+],
+"names": 119,
+"mirror": true,
+"scale": 0.63
+}
+}
+},
+"journeys": [
+{
+"id": "abraham",
+"t": "Abraham",
+"ref": "Genesis 11:31–22:19",
+"x": "From Ur to Haran, down into Canaan, to Egypt in the famine and back, then to Moriah.",
+"s": [
+{
+"i": 1187,
+"r": "Gen.11.31",
+"m": "walk"
+},
+{
+"i": 546,
+"r": "Gen.11.31",
+"m": "walk"
+},
+{
+"i": 1067,
+"r": "Gen.12.6",
+"m": "walk"
+},
+{
+"i": 201,
+"r": "Gen.12.8",
+"m": "walk"
+},
+{
+"i": 786,
+"r": "Gen.12.10",
+"m": "walk"
+},
+{
+"i": 201,
+"r": "Gen.13.3",
+"m": "walk"
+},
+{
+"i": 573,
+"r": "Gen.13.18",
+"m": "walk"
+},
+{
+"i": 171,
+"r": "Gen.21.33",
+"m": "walk"
+},
+{
+"i": 832,
+"r": "Gen.22.2",
+"m": "walk"
+}
+]
+},
+{
+"id": "joseph",
+"t": "Joseph sold into Egypt",
+"ref": "Genesis 37",
+"x": "Sent from Hebron to find his brothers at Shechem, found at Dothan, sold to traders bound for Egypt.",
+"s": [
+{
+"i": 573,
+"r": "Gen.37.14",
+"m": "walk"
+},
+{
+"i": 1067,
+"r": "Gen.37.14",
+"m": "walk"
+},
+{
+"i": 342,
+"r": "Gen.37.17",
+"m": "walk"
+},
+{
+"i": 1272,
+"r": "Gen.37.28",
+"m": "walk"
+},
+{
+"i": 786,
+"r": "Gen.39.1",
+"m": "walk"
+}
+]
+},
+{
+"id": "exodus",
+"t": "The Exodus",
+"ref": "Exodus 12 – Joshua 4",
+"x": "Out of Egypt, through the sea, to Sinai, forty years around the wilderness, and across the Jordan.",
+"s": [
+{
+"i": 979,
+"r": "Exod.12.37",
+"m": "walk"
+},
+{
+"i": 1112,
+"r": "Exod.12.37",
+"m": "walk"
+},
+{
+"i": 417,
+"r": "Exod.13.20",
+"m": "walk"
+},
+{
+"i": 948,
+"r": "Exod.14.2",
+"m": "walk"
+},
+{
+"i": 773,
+"r": "Exod.15.23",
+"m": "walk"
+},
+{
+"i": 372,
+"r": "Exod.15.27",
+"m": "walk"
+},
+{
+"i": 1095,
+"r": "Exod.16.1",
+"m": "walk"
+},
+{
+"i": 996,
+"r": "Exod.17.1",
+"m": "walk"
+},
+{
+"i": 864,
+"r": "Exod.19.2",
+"m": "walk"
+},
+{
+"i": 566,
+"r": "Num.11.35",
+"m": "walk"
+},
+{
+"i": 674,
+"r": "Num.13.26",
+"m": "walk"
+},
+{
+"i": 425,
+"r": "Num.33.35",
+"m": "walk"
+},
+{
+"i": 850,
+"r": "Num.20.22",
+"m": "walk"
+},
+{
+"i": 957,
+"r": "Num.33.42",
+"m": "walk"
+},
+{
+"i": 1085,
+"r": "Num.25.1",
+"m": "walk"
+},
+{
+"i": 857,
+"r": "Deut.34.1",
+"m": "walk"
+},
+{
+"i": 491,
+"r": "Josh.4.19",
+"m": "walk"
+},
+{
+"i": 647,
+"r": "Josh.6.1",
+"m": "walk"
+}
+]
+},
+{
+"id": "elijah",
+"t": "Elijah runs to Horeb",
+"ref": "1 Kings 19",
+"x": "Fleeing Jezebel from Jezreel to Beersheba, then forty days to the mountain of God.",
+"s": [
+{
+"i": 655,
+"r": "1Kgs.18.46",
+"m": "walk"
+},
+{
+"i": 171,
+"r": "1Kgs.19.3",
+"m": "walk"
+},
+{
+"i": 864,
+"r": "1Kgs.19.8",
+"m": "walk"
+}
+]
+},
+{
+"id": "jonah",
+"t": "Jonah",
+"ref": "Jonah 1–3",
+"x": "Told to go to Nineveh, he ran the other way from Joppa toward Tarshish.",
+"s": [
+{
+"i": 445,
+"r": "2Kgs.14.25",
+"m": "walk"
+},
+{
+"i": 663,
+"r": "Jonah.1.3",
+"m": "walk"
+},
+{
+"i": 1138,
+"r": "Jonah.1.3",
+"m": "sail"
+}
+]
+},
+{
+"id": "exile",
+"t": "Exile and return",
+"ref": "2 Kings 25; Ezra 7–8",
+"x": "Carried from Jerusalem through Riblah to Babylon; Ezra’s caravan comes home.",
+"s": [
+{
+"i": 650,
+"r": "2Kgs.25.4",
+"m": "walk"
+},
+{
+"i": 1002,
+"r": "2Kgs.25.6",
+"m": "walk"
+},
+{
+"i": 152,
+"r": "2Kgs.25.11",
+"m": "walk"
+},
+{
+"i": 31,
+"r": "Ezra.8.15",
+"m": "walk"
+},
+{
+"i": 650,
+"r": "Ezra.8.32",
+"m": "walk"
+}
+]
+},
+{
+"id": "jesus",
+"t": "Jesus",
+"ref": "The Gospels",
+"x": "Born in Bethlehem, hidden in Egypt, raised in Nazareth, baptised at the Jordan, ministry around Galilee, last week in Jerusalem.",
+"s": [
+{
+"i": 219,
+"r": "Matt.2.1",
+"m": "walk"
+},
+{
+"i": 786,
+"r": "Matt.2.14",
+"m": "walk"
+},
+{
+"i": 883,
+"r": "Matt.2.23",
+"m": "walk"
+},
+{
+"i": 187,
+"r": "John.1.28",
+"m": "walk"
+},
+{
+"i": 271,
+"r": "John.2.1",
+"m": "walk"
+},
+{
+"i": 274,
+"r": "Matt.4.13",
+"m": "walk"
+},
+{
+"i": 880,
+"r": "Luke.7.11",
+"m": "walk"
+},
+{
+"i": 231,
+"r": "Mark.8.22",
+"m": "walk"
+},
+{
+"i": 266,
+"r": "Matt.16.13",
+"m": "walk"
+},
+{
+"i": 865,
+"r": "Matt.17.1",
+"m": "walk"
+},
+{
+"i": 1117,
+"r": "John.4.5",
+"m": "walk"
+},
+{
+"i": 647,
+"r": "Luke.19.1",
+"m": "walk"
+},
+{
+"i": 186,
+"r": "John.12.1",
+"m": "walk"
+},
+{
+"i": 650,
+"r": "Luke.19.41",
+"m": "walk"
+},
+{
+"i": 504,
+"r": "John.19.17",
+"m": "walk"
+},
+{
+"i": 383,
+"r": "Luke.24.13",
+"m": "walk"
+}
+]
+},
+{
+"id": "paul1",
+"t": "Paul: first journey",
+"ref": "Acts 13–14",
+"x": "From Antioch to Cyprus and into the hills of Galatia, and back.",
+"s": [
+{
+"i": 69,
+"r": "Acts.13.1",
+"m": "walk"
+},
+{
+"i": 1041,
+"r": "Acts.13.4",
+"m": "walk"
+},
+{
+"i": 1018,
+"r": "Acts.13.5",
+"m": "sail"
+},
+{
+"i": 921,
+"r": "Acts.13.6",
+"m": "walk"
+},
+{
+"i": 936,
+"r": "Acts.13.13",
+"m": "sail"
+},
+{
+"i": 70,
+"r": "Acts.13.14",
+"m": "walk"
+},
+{
+"i": 609,
+"r": "Acts.13.51",
+"m": "walk"
+},
+{
+"i": 748,
+"r": "Acts.14.6",
+"m": "walk"
+},
+{
+"i": 330,
+"r": "Acts.14.20",
+"m": "walk"
+},
+{
+"i": 748,
+"r": "Acts.14.21",
+"m": "walk"
+},
+{
+"i": 609,
+"r": "Acts.14.21",
+"m": "walk"
+},
+{
+"i": 70,
+"r": "Acts.14.21",
+"m": "walk"
+},
+{
+"i": 936,
+"r": "Acts.14.25",
+"m": "walk"
+},
+{
+"i": 124,
+"r": "Acts.14.25",
+"m": "walk"
+},
+{
+"i": 69,
+"r": "Acts.14.26",
+"m": "sail"
+}
+]
+},
+{
+"id": "paul2",
+"t": "Paul: second journey",
+"ref": "Acts 15:36–18:22",
+"x": "Overland to Galatia, across to Macedonia, down through Greece to Corinth, home by Ephesus.",
+"s": [
+{
+"i": 69,
+"r": "Acts.15.35",
+"m": "walk"
+},
+{
+"i": 1140,
+"r": "Acts.15.41",
+"m": "walk"
+},
+{
+"i": 330,
+"r": "Acts.16.1",
+"m": "walk"
+},
+{
+"i": 748,
+"r": "Acts.16.1",
+"m": "walk"
+},
+{
+"i": 1177,
+"r": "Acts.16.8",
+"m": "walk"
+},
+{
+"i": 885,
+"r": "Acts.16.11",
+"m": "sail"
+},
+{
+"i": 942,
+"r": "Acts.16.12",
+"m": "walk"
+},
+{
+"i": 1154,
+"r": "Acts.17.1",
+"m": "walk"
+},
+{
+"i": 178,
+"r": "Acts.17.10",
+"m": "walk"
+},
+{
+"i": 121,
+"r": "Acts.17.15",
+"m": "sail"
+},
+{
+"i": 306,
+"r": "Acts.18.1",
+"m": "walk"
+},
+{
+"i": 281,
+"r": "Acts.18.18",
+"m": "walk"
+},
+{
+"i": 400,
+"r": "Acts.18.19",
+"m": "sail"
+},
+{
+"i": 265,
+"r": "Acts.18.22",
+"m": "sail"
+},
+{
+"i": 650,
+"r": "Acts.18.22",
+"m": "walk"
+},
+{
+"i": 69,
+"r": "Acts.18.22",
+"m": "walk"
+}
+]
+},
+{
+"id": "paul3",
+"t": "Paul: third journey",
+"ref": "Acts 18:23–21:17",
+"x": "Through Galatia to Ephesus for three years, around Greece, then the coast-hopping voyage to Jerusalem.",
+"s": [
+{
+"i": 69,
+"r": "Acts.18.23",
+"m": "walk"
+},
+{
+"i": 433,
+"r": "Acts.18.23",
+"m": "walk"
+},
+{
+"i": 400,
+"r": "Acts.19.1",
+"m": "walk"
+},
+{
+"i": 1177,
+"r": "Acts.20.6",
+"m": "walk"
+},
+{
+"i": 942,
+"r": "Acts.20.6",
+"m": "walk"
+},
+{
+"i": 306,
+"r": "Acts.20.2",
+"m": "walk"
+},
+{
+"i": 942,
+"r": "Acts.20.6",
+"m": "walk"
+},
+{
+"i": 1177,
+"r": "Acts.20.6",
+"m": "sail"
+},
+{
+"i": 112,
+"r": "Acts.20.13",
+"m": "walk"
+},
+{
+"i": 818,
+"r": "Acts.20.14",
+"m": "sail"
+},
+{
+"i": 810,
+"r": "Acts.20.15",
+"m": "sail"
+},
+{
+"i": 308,
+"r": "Acts.21.1",
+"m": "sail"
+},
+{
+"i": 1000,
+"r": "Acts.21.1",
+"m": "sail"
+},
+{
+"i": 926,
+"r": "Acts.21.1",
+"m": "sail"
+},
+{
+"i": 1180,
+"r": "Acts.21.3",
+"m": "sail"
+},
+{
+"i": 956,
+"r": "Acts.21.7",
+"m": "sail"
+},
+{
+"i": 265,
+"r": "Acts.21.8",
+"m": "walk"
+},
+{
+"i": 650,
+"r": "Acts.21.17",
+"m": "walk"
+}
+]
+},
+{
+"id": "rome",
+"t": "Paul to Rome",
+"ref": "Acts 27–28",
+"x": "A prisoner on the grain ships: storm, fourteen days adrift, shipwreck on Malta, and the road to Rome.",
+"s": [
+{
+"i": 265,
+"r": "Acts.27.1",
+"m": "walk"
+},
+{
+"i": 1092,
+"r": "Acts.27.3",
+"m": "sail"
+},
+{
+"i": 871,
+"r": "Acts.27.5",
+"m": "sail"
+},
+{
+"i": 304,
+"r": "Acts.27.7",
+"m": "sail"
+},
+{
+"i": 426,
+"r": "Acts.27.8",
+"m": "sail"
+},
+{
+"i": 769,
+"r": "Acts.28.1",
+"m": "sail"
+},
+{
+"i": 1119,
+"r": "Acts.28.12",
+"m": "sail"
+},
+{
+"i": 999,
+"r": "Acts.28.13",
+"m": "sail"
+},
+{
+"i": 959,
+"r": "Acts.28.13",
+"m": "sail"
+},
+{
+"i": 428,
+"r": "Acts.28.15",
+"m": "walk"
+},
+{
+"i": 1155,
+"r": "Acts.28.15",
+"m": "walk"
+},
+{
+"i": 1015,
+"r": "Acts.28.16",
+"m": "walk"
+}
+]
+}
+]
+}
